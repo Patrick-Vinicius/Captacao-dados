@@ -1,2 +1,6 @@
-# Captacao-dados
+# Captação-dados
+
+
+Aprendendo web scraping com python
+
  
